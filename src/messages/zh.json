@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "阿拉胡埃拉中央公园 | Central Park Alajuela",
+    "description": "探索哥斯达黎加阿拉胡埃拉省的Central Park Alajuela（阿拉胡埃拉中央公园）。这是一个美丽的城市公园，位于阿拉胡埃拉市中心，是当地居民和游客休闲放松的理想场所。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Central Park Alajuela",
+    "subtitle": "阿拉胡埃拉中央公园 · 哥斯达黎加",
+    "rating": "4.4",
+    "reviewCount": "5,873",
+    "hours": "城市公园",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索阿拉胡埃拉中央公园",
+    "description": "Central Park Alajuela（阿拉胡埃拉中央公园）位于哥斯达黎加阿拉胡埃拉省阿拉胡埃拉市中心。这是一个美丽的城市公园，是当地居民和游客休闲放松的理想场所。公园周围环境优美，地理位置优越，是体验阿拉胡埃拉本地文化和高生活质量的绝佳地点。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "公园全天开放，随时可以前往参观",
+        "建议穿着舒适的步行鞋",
+        "带上相机拍摄公园和周边殖民时期建筑的美丽景色",
+        "可以结合参观附近的阿拉胡埃拉大教堂等景点"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "优越的地理位置：位于阿拉胡埃拉市中心，交通便利，是当地居民休闲娱乐的重要场所。",
+        "丰富的文化活动：公园周边经常举办各种文化活动和节庆，是体验当地文化的好去处。",
+        "美丽的景观：公园内绿树成荫，环境优美，是放松身心的理想场所。",
+        "靠近旅游景点：距离阿拉胡埃拉大教堂、历史博物馆等著名景点仅几步之遥。"
+      ]
+    }
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "探索 Central Park Alajuela 的理想路线：",
+    "steps": [
+      "从公园主入口进入，欣赏中央的开放空间和绿树。",
+      "漫步公园周边，感受当地居民的日常生活和文化氛围。",
+      "参观附近的阿拉胡埃拉大教堂等历史建筑。",
+      "在公园周边的咖啡馆或餐厅休息，品尝当地美食。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "建议白天前往，此时光线最好，适合拍照和欣赏公园景色。",
+      "可以结合参观阿拉胡埃拉的历史景点，如大教堂、博物馆等。",
+      "请尊重当地文化，保持公园环境整洁。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现阿拉胡埃拉中央公园的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史意义",
+        "content": "Central Park Alajuela 是阿拉胡埃拉的重要城市空间和社交地标，长期以来一直是当地居民和游客喜爱的休闲场所。"
+      },
+      {
+        "id": "culture",
+        "title": "文化景观",
+        "content": "这里拥有优美的绿化环境和丰富的文化活动，是体验阿拉胡埃拉城市文化和生活节奏的绝佳场所。"
+      },
+      {
+        "id": "experience",
+        "title": "游览体验",
+        "content": "在 Central Park Alajuela 漫步，感受哥斯达黎加的悠闲生活氛围和美丽的城市风光，这是一次难忘的文化体验。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Central Park Alajuela（阿拉胡埃拉中央公园）",
+    "type": "景点类型",
+    "typeValue": "城市公园",
+    "country": "国家",
+    "countryValue": "哥斯达黎加",
+    "city": "城市",
+    "cityValue": "阿拉胡埃拉省阿拉胡埃拉市",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "2Q8P+HFR, Provincia de Alajuela, Alajuela, 哥斯达黎加",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "2Q8P+HFR",
+    "phone": "官方电话",
+    "phoneValue": "无"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "公园开放时间",
+    "outdoorTime": "全天24小时开放",
+    "lighthouse": "最佳游览时间",
+    "summer": "旱季（12月-4月）",
+    "summerTime": "12月-4月：天气晴朗，适合户外活动的理想季节",
+    "winter": "雨季（5月-11月）",
+    "winterTime": "5月-11月：下午易有阵雨，建议上午游览",
+    "warning": "重要提示",
+    "warningTime": "建议在参观前核实最新信息",
+    "tip": "白天前往可获得最佳的参观体验"
+  },
+  "tickets": {
+    "title": "实用信息",
+    "outdoor": "门票费用",
+    "outdoorPrice": "免费开放",
+    "lighthouse": "停车信息",
+    "adults": "周边停车",
+    "adultsPrice": "市区停车场，收费因地点而异",
+    "students": "交通建议",
+    "studentsPrice": "建议使用出租车或公共交通前往",
+    "card": "游览建议",
+    "cardPrice": "公园免费开放，无需门票。建议结合参观周边的阿拉胡埃拉大教堂等景点。",
+    "officialNotice": "关于最新的游览信息，请查阅",
+    "officialNoticeLinkLabel": "阿拉胡埃拉市政府官方网站",
+    "officialNoticeLink": "https://www.munialajuela.go.cr/"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "距胡安·圣玛丽亚国际机场 (SJO) 约20分钟车程，建议租车或乘坐出租车前往。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "公园位于阿拉胡埃拉市中心，导航输入\"Central Park Alajuela\"即可，周边有市区停车场。",
+    "bus": "公共交通",
+    "busDesc": "可乘坐阿拉胡埃拉市内公交车到达市中心，步行即可到达公园。",
+    "intercity": "步行游览",
+    "intercityDesc": "公园位于市中心，从周边景点步行即可到达。",
+    "cycling": "其他方式",
+    "cyclingDesc": "阿拉胡埃拉市交通便利，可使用出租车或网约车服务。",
+    "tips": "出行建议",
+    "tipsDesc": "Central Park Alajuela 是体验阿拉胡埃拉文化和休闲氛围的绝佳场所，建议白天前往。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "阿拉胡埃拉中央公园的魅力风光",
+    "captions": [
+      "公园全景",
+      "公园风光",
+      "绿树成荫",
+      "公园景观",
+      "休闲空间",
+      "步行小径",
+      "文化氛围",
+      "公园风貌",
+      "休闲氛围",
+      "公园特色",
+      "文化与自然",
+      "公园全貌",
+      "公园风格",
+      "自然痕迹",
+      "文化景观",
+      "自然风光",
+      "公园美景"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "阿拉胡埃拉的中心地带，这个公园非常美丽，是放松和享受当地氛围的绝佳场所。"
+      },
+      {
+        "name": "María José",
+        "date": "2周前",
+        "rating": 5,
+        "text": "美丽的公园，周围环境优美。距离大教堂很近，是游览阿拉胡埃拉时的必访之地。"
+      },
+      {
+        "name": "Roberto M.",
+        "date": "3个月前",
+        "rating": 4,
+        "text": "非常好的城市公园。适合散步和放松，周边有很多商店和餐厅，非常方便。"
+      },
+      {
+        "name": "Ana Lucía",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "阿拉胡埃拉的标志性地点。公园维护得很好，是当地文化的重要组成部分。"
+      },
+      {
+        "name": "Carlos A.",
+        "date": "1年前",
+        "rating": 4,
+        "text": "很好的休闲场所。可以在这里休息，观看人来人往，感受阿拉胡埃拉的生活节奏。"
+      },
+      {
+        "name": "Sofía M.",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "美丽的公园，充满了哥斯达黎加的魅力。是阿拉胡埃拉之旅的重要一站，一定要来体验。"
+      },
+      {
+        "name": "Miguel R.",
+        "date": "2个月前",
+        "rating": 4,
+        "text": "有趣的城市公园。可以近距离感受当地文化，建议白天前往，那时候气氛最好。"
+      },
+      {
+        "name": "Laura V.",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "阿拉胡埃拉的城市瑰宝。Central Park 是了解阿拉胡埃拉文化的重要场所，一定要来体验。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "2Q8P+HFR, Provincia de Alajuela, Alajuela, 哥斯达黎加",
+    "openMaps": "在 Google Maps 查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 Central Park Alajuela. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "visitcostarica": {
+        "name": "哥斯达黎加国家旅游局",
+        "url": "https://www.visitcostarica.com/"
+      },
+      "munialajuela": {
+        "name": "阿拉胡埃拉市政府",
+        "url": "https://www.munialajuela.go.cr/"
+      },
+      "presidencia": {
+        "name": "哥斯达黎加总统府",
+        "url": "https://www.presidencia.go.cr/"
+      },
+      "rree": {
+        "name": "哥斯达黎加外交与宗教事务部",
+        "url": "https://www.rree.go.cr/"
+      },
+      "sinac": {
+        "name": "哥斯达黎加国家保护区系统",
+        "url": "https://www.sinac.go.cr/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "5. 责任限制",
+        "content": "本网站按现状提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  },
+  "officialManagement": {
+    "title": "关于 Parque Natural Cerro Verde",
+    "text": "Parque Natural Cerro Verde 是圣安娜省的著名自然景观，拥有壮观的山景和丰富的自然文化价值，由萨尔瓦多国家旅游学会 (ISTU) 直接管理与运营维护。"
+  },
+  "historyTimeline": {
+    "title": "历史变迁时间线",
+    "items": [
+      {
+        "year": "早期",
+        "title": "早期：城市绿地",
+        "plaque": "城市公园（绿地）",
+        "description": "Central Park Alajuela 作为阿拉胡埃拉市中心的重要绿地，长期以来被当地居民视为休闲娱乐的重要场所。"
+      },
+      {
+        "year": "20世纪",
+        "title": "20世纪：城市发展",
+        "plaque": "城市发展（公园建设）",
+        "description": "随着阿拉胡埃拉城市化的发展，Central Park 逐渐成为城市中心的重要公共空间，周边建起了大教堂等标志性建筑。"
+      },
+      {
+        "year": "21世纪",
+        "title": "21世纪：文化旅游胜地",
+        "plaque": "文化标识（旅游发展）",
+        "description": "进入21世纪，这里凭借优越的地理位置和优美的环境，吸引了大量游客，成为阿拉胡埃拉文化旅游的重要名片。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "游客在参观时，可以先从公园主入口进入，欣赏绿树成荫的休闲空间；随后参观周边的阿拉胡埃拉大教堂等历史建筑；如果您有充足的时间，可以漫步到周边的历史博物馆和文化景点。最后在公园周边的咖啡馆或餐厅享用美食，感受阿拉胡埃拉的悠闲生活节奏。"
+  }
+}

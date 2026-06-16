@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "Central Park Alajuela | Parque Central de Alajuela",
+    "description": "Explore Central Park Alajuela in Alajuela Province, Costa Rica. A beautiful urban park located in the heart of Alajuela city, ideal for relaxation and experiencing local culture."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Central Park Alajuela",
+    "subtitle": "Parque Central de Alajuela · Costa Rica",
+    "rating": "4.4",
+    "reviewCount": "5,873",
+    "hours": "Urban Park",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Central Park Alajuela",
+    "description": "Central Park Alajuela is located in the heart of Alajuela city, Alajuela Province, Costa Rica. It is a beautiful urban park and an ideal place for local residents and tourists to relax and unwind. Surrounded by beautiful scenery and优越的地理位置, it is an excellent place to experience Alajuela's local culture and high quality of life.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Park is open 24 hours a day, 7 days a week",
+        "Comfortable walking shoes are recommended",
+        "Bring a camera to capture the beautiful scenery of the park and surrounding colonial architecture",
+        "You can combine your visit with nearby attractions like Alajuela Cathedral"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Prime Location: Located in the heart of Alajuela city with convenient transportation, it is an important place for local residents' recreation and entertainment.",
+        "Rich Cultural Activities: The area around the park often hosts various cultural events and festivals, making it a great place to experience local culture.",
+        "Beautiful Scenery: The park is shaded by green trees and has a beautiful environment, making it an ideal place to relax.",
+        "Close to Tourist Attractions: Just steps away from famous attractions like Alajuela Cathedral and History Museum."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "The ideal route to explore Central Park Alajuela:",
+    "steps": [
+      "Enter from the main entrance and enjoy the central open space and green trees.",
+      "Stroll around the park and feel the daily life and cultural atmosphere of local residents.",
+      "Visit nearby historical buildings like Alajuela Cathedral.",
+      "Rest at nearby cafes or restaurants and taste local cuisine."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "It's recommended to go during the day when the light is best, suitable for taking photos and enjoying the park scenery.",
+      "You can combine your visit with Alajuela's historical attractions, such as the Cathedral, museums, etc.",
+      "Please respect local culture and keep the park environment clean."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Central Park Alajuela",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Central Park Alajuela is an important urban space and social landmark in Alajuela, and has long been a favorite leisure place for local residents and tourists."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Landscape",
+        "content": "It features beautiful green environments and rich cultural activities, making it an excellent place to experience Alajuela's urban culture and lifestyle."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Strolling through Central Park Alajuela, feeling Costa Rica's relaxed lifestyle and beautiful urban scenery, is an unforgettable cultural experience."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Central Park Alajuela",
+    "type": "Attraction Type",
+    "typeValue": "Urban Park",
+    "country": "Country",
+    "countryValue": "Costa Rica",
+    "city": "City",
+    "cityValue": "Alajuela Province, Alajuela city",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "2Q8P+HFR, Provincia de Alajuela, Alajuela, Costa Rica",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2Q8P+HFR",
+    "phone": "Official Phone",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Opening Hours",
+    "outdoorTime": "Open 24 hours a day, 7 days a week",
+    "lighthouse": "Best Time to Visit",
+    "summer": "Dry Season (December-April)",
+    "summerTime": "Dec-Apr: Pleasant weather, ideal season for outdoor activities",
+    "winter": "Rainy Season (May-November)",
+    "winterTime": "May-Nov: Afternoon showers are common, recommended to visit in the morning",
+    "warning": "Important Notes",
+    "warningTime": "Recommended to verify latest information before visiting",
+    "tip": "Daytime visits offer the best experience"
+  },
+  "tickets": {
+    "title": "Useful Information",
+    "outdoor": "Entrance Fee",
+    "outdoorPrice": "Free admission",
+    "lighthouse": "Parking Information",
+    "adults": "Nearby Parking",
+    "adultsPrice": "Urban parking lots available, fees vary by location",
+    "students": "Transportation Tips",
+    "studentsPrice": "Taxis or public transportation recommended",
+    "card": "Visiting Tips",
+    "cardPrice": "The park is free and open to the public. Recommended to combine with nearby attractions like Alajuela Cathedral.",
+    "officialNotice": "For the latest visiting information, please refer to the",
+    "officialNoticeLinkLabel": "Alajuela Municipal Government Official Website",
+    "officialNoticeLink": "https://www.munialajuela.go.cr/"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "About 20 minutes drive from Juan Santamaría International Airport (SJO). Renting a car or taking a taxi is recommended.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "Located in the heart of Alajuela city. Simply input 'Central Park Alajuela' in navigation. Urban parking lots are available nearby.",
+    "bus": "Public Transport",
+    "busDesc": "Take Alajuela city buses to the city center, then walk to the park.",
+    "intercity": "Walking Tour",
+    "intercityDesc": "The park is located in the city center, walkable from nearby attractions.",
+    "cycling": "Other Means",
+    "cyclingDesc": "Alajuela city has convenient transportation. Taxis or ride-sharing services are available.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Central Park Alajuela is an excellent place to experience Alajuela's culture and leisure atmosphere. Visiting during daylight hours is recommended."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Central Park Alajuela",
+    "captions": [
+      "Park panoramic view",
+      "Park scenery",
+      "Shady trees",
+      "Park landscape",
+      "Leisure spaces",
+      "Walking paths",
+      "Cultural atmosphere",
+      "Park features",
+      "Leisure atmosphere",
+      "Park characteristics",
+      "Culture and nature",
+      "Full park view",
+      "Park style",
+      "Natural traces",
+      "Cultural landscape",
+      "Natural scenery",
+      "Beautiful park views"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "The heart of Alajuela. This park is beautiful and is an ideal place to relax and enjoy the local atmosphere."
+      },
+      {
+        "name": "María José",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Beautiful park with a pleasant environment. Close to the Cathedral, it's a must-visit place when touring Alajuela."
+      },
+      {
+        "name": "Roberto M.",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Very good urban park. Suitable for walking and relaxing, with many shops and restaurants nearby, very convenient."
+      },
+      {
+        "name": "Ana Lucía",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "An iconic place in Alajuela. The park is well-maintained and is an important part of local culture."
+      },
+      {
+        "name": "Carlos A.",
+        "date": "1 year ago",
+        "rating": 4,
+        "text": "Great place for leisure. You can rest here, watch people come and go, and feel the pace of life in Alajuela."
+      },
+      {
+        "name": "Sofía M.",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "Beautiful park, full of Costa Rican charm. An important stop on your Alajuela trip, definitely worth experiencing."
+      },
+      {
+        "name": "Miguel R.",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Interesting urban park. You can experience the local culture up close. Daytime visits recommended when the atmosphere is best."
+      },
+      {
+        "name": "Laura V.",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "An urban gem of Alajuela. Central Park is an important place to understand Alajuela's culture, definitely worth experiencing."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "2Q8P+HFR, Provincia de Alajuela, Alajuela, Costa Rica",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Central Park Alajuela. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "visitcostarica": {
+        "name": "Costa Rica Tourism Board",
+        "url": "https://www.visitcostarica.com/"
+      },
+      "munialajuela": {
+        "name": "Alajuela Municipal Government",
+        "url": "https://www.munialajuela.go.cr/"
+      },
+      "presidencia": {
+        "name": "Presidency of Costa Rica",
+        "url": "https://www.presidencia.go.cr/"
+      },
+      "rree": {
+        "name": "Ministry of Foreign Affairs and Worship of Costa Rica",
+        "url": "https://www.rree.go.cr/"
+      },
+      "sinac": {
+        "name": "National System of Conservation Areas",
+        "url": "https://www.sinac.go.cr/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Parque Natural Cerro Verde",
+    "text": "Parque Natural Cerro Verde is a famous natural attraction in the Santa Ana Department, boasting spectacular mountain views and rich natural and cultural value. It is directly managed and maintained by the Salvadoran Institute of Tourism (ISTU)."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Early Period",
+        "title": "Early Period: Urban Green Space",
+        "plaque": "Urban Park (Green Space)",
+        "description": "Central Park Alajuela has long been regarded as an important green space in the heart of Alajuela city and an important place for local residents' leisure and entertainment."
+      },
+      {
+        "year": "20th Century",
+        "title": "20th Century: Urban Development",
+        "plaque": "Urban Development (Park Construction)",
+        "description": "With the urbanization of Alajuela, Central Park gradually became an important public space in the city center, with landmark buildings like the Cathedral built nearby."
+      },
+      {
+        "year": "21st Century",
+        "title": "21st Century: Cultural Tourism Destination",
+        "plaque": "Cultural Landmark (Tourism Development)",
+        "description": "In the 21st century, with its superior geographical location and beautiful environment, it has attracted a large number of tourists and become an important calling card for Alajuela's cultural tourism."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can start by entering from the main entrance and admiring the leisure spaces shaded by green trees; then visit nearby historical buildings like Alajuela Cathedral; if you have enough time, you can walk to nearby historical museums and cultural attractions. Finally, enjoy food in nearby cafes or restaurants and feel the relaxed pace of life in Alajuela."
+  }
+}

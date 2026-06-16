@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "Parque Central de Alajuela | Central Park Alajuela",
+    "description": "Explora el Parque Central de Alajuela en la provincia de Alajuela, Costa Rica. Un hermoso parque urbano ubicado en el corazón de la ciudad de Alajuela, ideal para relajarse y experimentar la cultura local."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Parque Central de Alajuela",
+    "subtitle": "Parque Central de Alajuela · Costa Rica",
+    "rating": "4.4",
+    "reviewCount": "5,873",
+    "hours": "Parque Urbano",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora el Parque Central de Alajuela",
+    "description": "El Parque Central de Alajuela se encuentra en el corazón de la ciudad de Alajuela, Provincia de Alajuela, Costa Rica. Es un hermoso parque urbano e ideal para que los residentes locales y los turistas se relajen y disfruten. Rodeado de hermosos paisajes y una ubicación privilegiada, es un excelente lugar para experimentar la cultura local de Alajuela y su alta calidad de vida.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "El parque está abierto las 24 horas del día, 7 días de la semana",
+        "Se recomienda usar calzado cómodo para caminar",
+        "Lleva una cámara para capturar los hermosos paisajes del parque y la arquitectura colonial circundante",
+        "Puedes combinar tu visita con atracciones cercanas como la Catedral de Alajuela"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Ubicación Privilegiada: Ubicado en el corazón de la ciudad de Alajuela con transporte conveniente, es un lugar importante para el entretenimiento y recreación de los residentes locales.",
+        "Ricas Actividades Culturales: El área alrededor del parque a menudo organiza varios eventos culturales y festivales, lo que lo convierte en un gran lugar para experimentar la cultura local.",
+        "Hermosos Paisajes: El parque está sombreado por árboles verdes y tiene un hermoso ambiente, lo que lo convierte en un lugar ideal para relajarse.",
+        "Cerca de Atracciones Turísticas: A solo unos pasos de atracciones famosas como la Catedral de Alajuela y el Museo de Historia."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta de Visita",
+    "overview": "La ruta ideal para explorar el Parque Central de Alajuela:",
+    "steps": [
+      "Ingresa por la entrada principal y disfruta del espacio abierto central y los árboles verdes.",
+      "Pasea por los alrededores del parque y siente la vida diaria y el ambiente cultural de los residentes locales.",
+      "Visita edificios históricos cercanos como la Catedral de Alajuela.",
+      "Descansa en cafeterías o restaurantes cercanos y prueba la cocina local."
+    ],
+    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplements": [
+      "Se recomienda ir durante el día cuando la luz es mejor, adecuada para tomar fotos y disfrutar del paisaje del parque.",
+      "Puedes combinar tu visita con atracciones históricas de Alajuela, como la catedral, museos, etc.",
+      "Por favor, respeta la cultura local y mantén el ambiente del parque limpio."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto del Parque Central de Alajuela",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Histórica",
+        "content": "El Parque Natural Cerro Verde es un importante hito de protección natural y ecoturismo en El Salvador y ha sido un lugar de ocio favorito para los residentes locales y turistas durante mucho tiempo."
+      },
+      {
+        "id": "nature",
+        "title": "Paisaje Natural",
+        "content": "Cuenta con vistas espectaculares de montaña y rica vegetación, siendo un lugar excelente para experimentar la belleza natural de El Salvador."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de Visita",
+        "content": "Pasear por el Parque Natural Cerro Verde, sentir el fresco clima de montaña y el magnífico paisaje natural, es una experiencia inolvidable de naturaleza."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Parque Central de Alajuela",
+    "type": "Tipo de atracción",
+    "typeValue": "Parque Urbano",
+    "country": "País",
+    "countryValue": "Costa Rica",
+    "city": "Ciudad",
+    "cityValue": "Provincia de Alajuela, ciudad de Alajuela",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "2Q8P+HFR, Provincia de Alajuela, Alajuela, Costa Rica",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "2Q8P+HFR",
+    "phone": "Teléfono Oficial",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Horarios de Apertura",
+    "outdoor": "Horario del Parque",
+    "outdoorTime": "Abierto las 24 horas del día, 7 días de la semana",
+    "lighthouse": "Mejor Época para Visitar",
+    "summer": "Temporada Seca (diciembre-abril)",
+    "summerTime": "Dic-Abr: Clima agradable, temporada ideal para actividades al aire libre",
+    "winter": "Temporada de Lluvias (mayo-noviembre)",
+    "winterTime": "May-Nov: Las lluvias por la tarde son comunes, se recomienda visitar por la mañana",
+    "warning": "Notas Importantes",
+    "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
+    "tip": "Las visitas diurnas ofrecen la mejor experiencia"
+  },
+  "tickets": {
+    "title": "Información Útil",
+    "outdoor": "Tarifa de Entrada",
+    "outdoorPrice": "Entrada gratuita",
+    "lighthouse": "Información de Estacionamiento",
+    "adults": "Estacionamiento Cercano",
+    "adultsPrice": "Estacionamientos urbanos disponibles, tarifas varían según ubicación",
+    "students": "Consejos de Transporte",
+    "studentsPrice": "Se recomienda usar taxis o transporte público",
+    "card": "Consejos de Visita",
+    "cardPrice": "El parque es gratuito y abierto al público. Se recomienda combinar con atracciones cercanas como la Catedral de Alajuela.",
+    "officialNotice": "Para obtener la información más reciente de visita, consulte el",
+    "officialNoticeLinkLabel": "Sitio Oficial del Gobierno Municipal de Alajuela",
+    "officialNoticeLink": "https://www.munialajuela.go.cr/"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "A unos 20 minutos en coche del Aeropuerto Internacional Juan Santamaría (SJO). Se recomienda alquilar un coche o tomar un taxi.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "Ubicado en el corazón de la ciudad de Alajuela. Simplemente ingrese 'Central Park Alajuela' en la navegación. Hay estacionamientos urbanos disponibles cercanos.",
+    "bus": "Transporte Público",
+    "busDesc": "Tome los autobuses urbanos de Alajuela hasta el centro de la ciudad, luego camine hasta el parque.",
+    "intercity": "Tour a Pie",
+    "intercityDesc": "El parque está ubicado en el centro de la ciudad, caminable desde atracciones cercanas.",
+    "cycling": "Otros Medios",
+    "cyclingDesc": "La ciudad de Alajuela tiene transporte conveniente. Hay servicios de taxis o aplicaciones de transporte disponibles.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El Parque Central de Alajuela es un excelente lugar para experimentar la cultura y el ambiente de ocio de Alajuela. Se recomienda visitar durante el día con luz solar."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "El Encanto del Parque Central de Alajuela",
+    "captions": [
+      "Vista panorámica del parque",
+      "Paisaje del parque",
+      "Árboles sombreados",
+      "Paisaje del parque",
+      "Espacios de ocio",
+      "Senderos para caminatas",
+      "Ambiente cultural",
+      "Características del parque",
+      "Ambiente de ocio",
+      "Características del parque",
+      "Cultura y naturaleza",
+      "Vista completa del parque",
+      "Estilo del parque",
+      "Rastros naturales",
+      "Paisaje cultural",
+      "Paisaje natural",
+      "Hermosas vistas del parque"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "El corazón de Alajuela. Este parque es hermoso y es un lugar ideal para relajarse y disfrutar del ambiente local."
+      },
+      {
+        "name": "María José",
+        "date": "hace 2 semanas",
+        "rating": 5,
+        "text": "Hermoso parque con un agradable ambiente. Cerca de la Catedral, es un lugar imprescindible al tour por Alajuela."
+      },
+      {
+        "name": "Roberto M.",
+        "date": "hace 3 meses",
+        "rating": 4,
+        "text": "Muy buen parque urbano. Adecuado para caminar y relajarse, con muchas tiendas y restaurantes cercanos, muy conveniente."
+      },
+      {
+        "name": "Ana Lucía",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Un lugar icónico en Alajuela. El parque está bien mantenido y es una parte importante de la cultura local."
+      },
+      {
+        "name": "Carlos A.",
+        "date": "hace 1 año",
+        "rating": 4,
+        "text": "Excelente lugar para el ocio. Puedes descansar aquí, mirar a la gente pasar, y sentir el ritmo de vida de Alajuela."
+      },
+      {
+        "name": "Sofía M.",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Hermoso parque, lleno del encanto de Costa Rica. Una parada importante en tu viaje por Alajuela, definitivamente vale la pena experimentarlo."
+      },
+      {
+        "name": "Miguel R.",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Interesante parque urbano. Puedes experimentar la cultura local de cerca. Se recomiendan las visitas diurnas cuando el ambiente es mejor."
+      },
+      {
+        "name": "Laura V.",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Una gema urbana de Alajuela. El Parque Central es un lugar importante para comprender la cultura de Alajuela, definitivamente vale la pena experimentarlo."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "2Q8P+HFR, Provincia de Alajuela, Alajuela, Costa Rica",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Parque Central de Alajuela. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales",
+    "officialLinks": {
+      "visitcostarica": {
+        "name": "Instituto Costarricense de Turismo",
+        "url": "https://www.visitcostarica.com/"
+      },
+      "munialajuela": {
+        "name": "Gobierno Municipal de Alajuela",
+        "url": "https://www.munialajuela.go.cr/"
+      },
+      "presidencia": {
+        "name": "Presidencia de la República de Costa Rica",
+        "url": "https://www.presidencia.go.cr/"
+      },
+      "rree": {
+        "name": "Ministerio de Relaciones Exteriores y Culto de Costa Rica",
+        "url": "https://www.rree.go.cr/"
+      },
+      "sinac": {
+        "name": "Sistema Nacional de Áreas de Conservación",
+        "url": "https://www.sinac.go.cr/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad Intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "officialManagement": {
+    "title": "Sobre Central Park Alajuela",
+    "text": "Central Park Alajuela es una atracción urbana famosa en la provincia de Alajuela, con hermosos paisajes y un rico valor cultural urbano. Es un lugar ideal para que los residentes locales y turistas se relajen y disfruten."
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Período Inicial",
+        "title": "Período Inicial: Espacio Urbano",
+        "plaque": "Parque Urbano (Espacio Verde)",
+        "description": "Central Park Alajuela ha sido considerado durante mucho tiempo como un importante espacio verde en el corazón de la ciudad de Alajuela y un lugar importante para el ocio y entretenimiento de los residentes locales."
+      },
+      {
+        "year": "Siglo XX",
+        "title": "Siglo XX: Desarrollo Urbano",
+        "plaque": "Desarrollo Urbano (Construcción del Parque)",
+        "description": "Con la urbanización de Alajuela, Central Park se convirtió gradualmente en un importante espacio público en el centro de la ciudad, con edificios icónicos como la Catedral construidos cercanos."
+      },
+      {
+        "year": "Siglo XXI",
+        "title": "Siglo XXI: Destino Turístico Cultural",
+        "plaque": "Hito Cultural (Desarrollo Turístico)",
+        "description": "En el siglo XXI, con su ubiación geográfica superior y hermoso ambiente, ha atraído a una gran cantidad de turistas y se ha convertido en una importante carta de presentación para el turismo cultural de Alajuela."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puede comenzar ingresando por la entrada principal y admirando los espacios de ocio sombreados por árboles verdes; luego visite edificios históricos cercanos como la Catedral de Alajuela; si tiene suficiente tiempo, puede caminar a museos históricos y atracciones culturales cercanas. Finalmente, disfrute de la comida en cafeterías o restaurantes cercanos y sienta el relajado ritmo de vida de Alajuela."
+  }
+}
