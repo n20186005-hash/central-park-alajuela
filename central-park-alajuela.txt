@@ -1,0 +1,126 @@
+
+我们网站是
+centralparkalajuela.com
+检查下有没有错误
+
+国家 / 地区*
+中文：哥斯达黎加
+英文：Costa Rica
+地址*
+中文：2Q8P+HFR
+英文：2Q8P+HFR
+地址 2
+中文：阿拉胡埃拉中央公园
+英文：Parque Central de Alajuela (Central Park Alajuela)
+城市*
+中文：阿拉胡埃拉
+英文：Alajuela
+省 / 自治区 / 直辖市*
+中文：阿拉胡埃拉省
+英文：Provincia de Alajuela
+邮政编码*
+中文：2Q8P+HFR
+英文：2Q8P+HFR
+
+central-park-alajuela
+
+阿拉胡埃拉省	Central Park Alajuela
+Central Park Alajuela
+Parque Central de Alajuela
+4.4(5,873)
+公园
+2Q8P+HFR, Provincia de Alajuela, Alajuela, 哥斯达黎加
+https://maps.app.goo.gl/GimLtykHVTQRwsi38
+
+单景点买.com域名推荐
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Central Park Alajuela 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、英文、西班牙文三语言
+
+
+central-park-alajuela
+
+阿拉胡埃拉省	Central Park Alajuela
+Central Park Alajuela
+Parque Central de Alajuela
+4.4(5,873)
+公园
+2Q8P+HFR, Provincia de Alajuela, Alajuela, 哥斯达黎加
+https://maps.app.goo.gl/GimLtykHVTQRwsi38
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\哥斯达黎加\central-park-alajuela\public\gallery\
+
+删除原先友情链接，新增以下友情链接
+
+哥斯达黎加国家旅游局
+https://www.visitcostarica.com/
+阿拉胡埃拉市政府
+https://www.munialajuela.go.cr/
+哥斯达黎加总统府
+https://www.presidencia.go.cr/
+哥斯达黎加外交与宗教事务部
+https://www.rree.go.cr/
+哥斯达黎加国家保护区系统
+https://www.sinac.go.cr/
+
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/GimLtykHVTQRwsi38
+页面一共四个链接每一个都需要修改
+	
+照片画廊
+精彩照片
+检查照片名称是否正确并修正
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/GimLtykHVTQRwsi38
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/GimLtykHVTQRwsi38
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/GimLtykHVTQRwsi38
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/GimLtykHVTQRwsi38
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+哥斯达黎加官方旅游局 (Visit Costa Rica)
+哥斯达黎加国家旅游局（ICT）的官方网站，提供最全面、权威的旅游指南、景点介绍和签证信息。
+
+网址：https://www.visitcostarica.com/
+
+阿拉胡埃拉市政府官网 (Municipalidad de Alajuela)
+该公园所在地的当地政府官方网站，包含阿拉胡埃拉市的市政信息、文化活动及本地公共服务。
+
+网址：https://www.munialajuela.go.cr/
+
+哥斯达黎加总统府/国家政府官网 (Presidencia de la República)
+哥斯达黎加共和国的官方政务门户网站，发布国家最高级别的政策、新闻与官方公告。
+
+网址：https://www.presidencia.go.cr/
+
+哥斯达黎加外交与宗教事务部 (Ministerio de Relaciones Exteriores y Culto)
+哥斯达黎加外交部官网，处理国际关系、双边友好协定以及驻外使领馆事务（适合查询国家间的官方“友情/外交”信息）。
+
+网址：https://www.rree.go.cr/
+
+哥斯达黎加国家保护区系统 (SINAC)
+由于哥斯达黎加以生态旅游和公园闻名，这是管理全国国家公园、自然保护区和野生动物的官方政府机构网站。
+
+网址：https://www.sinac.go.cr/
