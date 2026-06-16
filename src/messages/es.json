@@ -192,22 +192,52 @@
     "moreReviews": "Ver Más Reseñas en Google Maps",
     "items": [
       {
-        "name": "Turista A",
+        "name": "Sarah W.",
         "date": "Recientemente",
         "rating": 5,
         "text": "¡La primera parada perfecta muy cerca del aeropuerto! Hay enormes árboles de mango en el parque, e incluso vimos un lindo perezoso en las ramas."
       },
       {
-        "name": "Turista B",
+        "name": "David M.",
         "date": "Recientemente",
         "rating": 5,
         "text": "Un centro donde se reúnen los lugareños, muy animado. Las campanas de la catedral y las palomas en la plaza te hacen sentir muy relajado."
       },
       {
         "name": "María José",
-        "date": "Recientemente",
+        "date": "Hace 1 mes",
         "rating": 5,
         "text": "Hermoso parque con un entorno agradable. Muy cerca de la catedral, una visita obligada al recorrer Alajuela."
+      },
+      {
+        "name": "Carlos A.",
+        "date": "Hace 2 meses",
+        "rating": 5,
+        "text": "Bello lugar precioso y tranquilo. Es antiguo, tradicional, es muy tranquilo y es la vida en Alajuela."
+      },
+      {
+        "name": "Ana V.",
+        "date": "Hace 3 meses",
+        "rating": 4,
+        "text": "Un gran parque en el centro de Alajuela, con árboles de mango que brindan una sombra cómoda. Perfecto para tomar un descanso."
+      },
+      {
+        "name": "Roberto G.",
+        "date": "Hace más de 6 meses",
+        "rating": 5,
+        "text": "Un lugar muy bonito y rico en historia. Local bien conservado y limpio. Gran circulación de personas. Bella biblioteca y catedral."
+      },
+      {
+        "name": "Elena R.",
+        "date": "Hace 1 año",
+        "rating": 5,
+        "text": "Bonito lugar, con espectáculos improvisados. Genial para caminar y sentir la auténtica vibra costarricense."
+      },
+      {
+        "name": "Luis F.",
+        "date": "Recientemente",
+        "rating": 4,
+        "text": "Espacio público bien mantenido con un quiosco en el centro. Muy relajante para simplemente sentarse y observar a la gente."
       }
     ]
   },

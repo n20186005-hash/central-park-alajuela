@@ -192,22 +192,52 @@
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
       {
-        "name": "Tourist A",
+        "name": "Sarah W.",
         "date": "Recently",
         "rating": 5,
         "text": "The perfect first stop very close to the airport! There are giant mango trees in the park, and we even saw a cute sloth on the branches."
       },
       {
-        "name": "Tourist B",
+        "name": "David M.",
         "date": "Recently",
         "rating": 5,
         "text": "A center where locals gather, very lively. The cathedral bells and pigeons in the square make you feel very relaxed."
       },
       {
         "name": "María José",
-        "date": "Recently",
+        "date": "1 month ago",
         "rating": 5,
         "text": "Beautiful park with nice surroundings. Very close to the cathedral, a must-visit when touring Alajuela."
+      },
+      {
+        "name": "Carlos A.",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Beautiful, precious and quiet place. Old and traditional, it truly reflects life in Alajuela."
+      },
+      {
+        "name": "Ana V.",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Great city park with giant mango trees providing comfortable shade. Perfect for taking a break."
+      },
+      {
+        "name": "Roberto G.",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A very beautiful place rich in history. Very clean with a lot of people. There's a beautiful library and cathedral next to it."
+      },
+      {
+        "name": "Elena R.",
+        "date": "1 year ago",
+        "rating": 5,
+        "text": "Nice place, often with improvised shows. Great for walking around and feeling the authentic Costa Rican vibe."
+      },
+      {
+        "name": "Luis F.",
+        "date": "Recently",
+        "rating": 4,
+        "text": "Well-maintained public space with a kiosk in the center. Very relaxing to just sit and people-watch."
       }
     ]
   },
