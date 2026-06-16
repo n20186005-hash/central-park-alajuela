@@ -5,10 +5,9 @@ import { useTranslations, useMessages } from 'next-intl';
 export default function RouteSection() {
   const t = useTranslations('route');
   const messages = useMessages() as any;
-  const stepsData = (messages?.route?.steps || []) as string[];
+  const stepsData = (messages?.route?.steps || []) as any[];
   const supplementsData = (messages?.route?.supplements || []) as string[];
 
-  const steps = Array.from({ length: stepsData.length }, (_, i) => i + 1);
   const supplements = Array.from({ length: supplementsData.length }, (_, i) => i);
 
   return (
@@ -34,11 +33,12 @@ export default function RouteSection() {
           />
 
           <div className="space-y-6">
-            {steps.map((step) => (
+            {stepsData.map((stepData: any, index: number) => (
               <RouteStep
-                key={step}
-                step={step}
-                description={t(`steps.${step - 1}` as any)}
+                key={index}
+                time={stepData.time}
+                icon={stepData.icon}
+                description={stepData.description}
               />
             ))}
           </div>
@@ -66,7 +66,7 @@ export default function RouteSection() {
   );
 }
 
-function RouteStep({ step, description }: { step: number; description: string }) {
+function RouteStep({ time, icon, description }: { time: string; icon: string; description: string }) {
   return (
     <div className="relative flex gap-4 pl-4">
       {/* Timeline dot */}
@@ -79,12 +79,12 @@ function RouteStep({ step, description }: { step: number; description: string })
         }}
       />
 
-      {/* Step number */}
+      {/* Time & Icon badge */}
       <div
-        className="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center text-sm font-bold"
+        className="flex-shrink-0 w-12 h-12 rounded-full flex items-center justify-center text-lg"
         style={{ background: 'var(--accent)', color: 'white' }}
       >
-        {step}
+        {icon}
       </div>
 
       {/* Content */}
@@ -92,6 +92,9 @@ function RouteStep({ step, description }: { step: number; description: string })
         className="flex-1 rounded-xl p-4"
         style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
       >
+        <p className="text-sm font-semibold mb-1" style={{ color: 'var(--accent)' }}>
+          {time}
+        </p>
         <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
           {description}
         </p>

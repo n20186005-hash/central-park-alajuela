@@ -12,11 +12,12 @@
   },
   "hero": {
     "title": "Parque Central de Alajuela",
-    "subtitle": "Parque Central de Alajuela · Costa Rica",
+    "subtitle": "Parque Central de Alajuela | La Ciudad de los Mangos, Costa Rica",
     "rating": "4.4",
     "reviewCount": "5,873",
     "hours": "Parque Urbano",
-    "openMaps": "Ver Ubicación"
+    "openMaps": "Ver Mapa y Navegación",
+    "downloadGuide": "Descargar Guía Peatonal"
   },
   "intro": {
     "title": "Explora el Parque Central de Alajuela",
@@ -44,10 +45,26 @@
     "title": "Ruta de Visita",
     "overview": "La ruta ideal para explorar el Parque Central de Alajuela:",
     "steps": [
-      "Ingresa por la entrada principal y disfruta del espacio abierto central y los árboles verdes.",
-      "Pasea por los alrededores del parque y siente la vida diaria y el ambiente cultural de los residentes locales.",
-      "Visita edificios históricos cercanos como la Catedral de Alajuela.",
-      "Descansa en cafeterías o restaurantes cercanos y prueba la cocina local."
+      {
+        "time": "09:00 AM",
+        "icon": "☕",
+        "description": "Pasee por el Parque Central y busque iguanas silvestres bajo los árboles de mango."
+      },
+      {
+        "time": "10:00 AM",
+        "icon": "⛪",
+        "description": "Ingrese a la Catedral de Alajuela (Catedral de la Virgen del Pilar) adyacente para admirar los vitrales."
+      },
+      {
+        "time": "11:00 AM",
+        "icon": "🏛️",
+        "description": "Visite el Museo Histórico Cultural Juan Santamaría para conocer la historia del héroe nacional de Costa Rica."
+      },
+      {
+        "time": "12:00 PM",
+        "icon": "🍽️",
+        "description": "Camine hasta el Mercado Central a dos cuadras de distancia para probar la auténtica comida costarricense (Casado)."
+      }
     ],
     "supplementsTitle": "Consejos Adicionales de Visita",
     "supplements": [
@@ -78,21 +95,28 @@
   },
   "basicInfo": {
     "title": "Información Básica",
-    "officialName": "Nombre Oficial",
-    "officialNameValue": "Parque Central de Alajuela",
-    "type": "Tipo de atracción",
-    "typeValue": "Parque Urbano",
-    "country": "País",
-    "countryValue": "Costa Rica",
-    "city": "Ciudad",
-    "cityValue": "Provincia de Alajuela, ciudad de Alajuela",
-    "googleRating": "Calificación de Google",
-    "address": "Dirección",
-    "addressValue": "2Q8P+HFR, Provincia de Alajuela, Alajuela, Costa Rica",
-    "plusCode": "Código Plus",
-    "plusCodeValue": "2Q8P+HFR",
-    "phone": "Teléfono Oficial",
-    "phoneValue": "N/A"
+    "items": [
+      {
+        "icon": "time",
+        "label": "Horario",
+        "value": "Abierto 24 horas, Gratis"
+      },
+      {
+        "icon": "location",
+        "label": "Dirección",
+        "value": "Centro de Alajuela"
+      },
+      {
+        "icon": "airport",
+        "label": "Distancia al Aeropuerto",
+        "value": "A solo 5-10 min en auto del Aeropuerto SJO"
+      },
+      {
+        "icon": "feature",
+        "label": "Características",
+        "value": "Pulmón de la ciudad, edificios históricos, fauna (iguanas/aves/perezosos)"
+      }
+    ]
   },
   "hours": {
     "title": "Horarios de Apertura",
@@ -125,7 +149,7 @@
   "transport": {
     "title": "Transporte",
     "airport": "Desde el Aeropuerto",
-    "airportDesc": "A unos 20 minutos en coche del Aeropuerto Internacional Juan Santamaría (SJO). Se recomienda alquilar un coche o tomar un taxi.",
+    "airportDesc": "A solo 5-10 minutos en auto del Aeropuerto Internacional Juan Santamaría (SJO). Se recomienda alquilar un auto o tomar un taxi. Muchos turistas lo convierten en su primera o última parada al visitar Costa Rica.",
     "selfDrive": "En Coche",
     "selfDriveDesc": "Ubicado en el corazón de la ciudad de Alajuela. Simplemente ingrese 'Central Park Alajuela' en la navegación. Hay estacionamientos urbanos disponibles cercanos.",
     "bus": "Transporte Público",
@@ -168,52 +192,22 @@
     "moreReviews": "Ver Más Reseñas en Google Maps",
     "items": [
       {
-        "name": "Juan Carlos",
-        "date": "hace 1 mes",
+        "name": "Turista A",
+        "date": "Recientemente",
         "rating": 5,
-        "text": "El corazón de Alajuela. Este parque es hermoso y es un lugar ideal para relajarse y disfrutar del ambiente local."
+        "text": "¡La primera parada perfecta muy cerca del aeropuerto! Hay enormes árboles de mango en el parque, e incluso vimos un lindo perezoso en las ramas."
+      },
+      {
+        "name": "Turista B",
+        "date": "Recientemente",
+        "rating": 5,
+        "text": "Un centro donde se reúnen los lugareños, muy animado. Las campanas de la catedral y las palomas en la plaza te hacen sentir muy relajado."
       },
       {
         "name": "María José",
-        "date": "hace 2 semanas",
+        "date": "Recientemente",
         "rating": 5,
-        "text": "Hermoso parque con un agradable ambiente. Cerca de la Catedral, es un lugar imprescindible al tour por Alajuela."
-      },
-      {
-        "name": "Roberto M.",
-        "date": "hace 3 meses",
-        "rating": 4,
-        "text": "Muy buen parque urbano. Adecuado para caminar y relajarse, con muchas tiendas y restaurantes cercanos, muy conveniente."
-      },
-      {
-        "name": "Ana Lucía",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Un lugar icónico en Alajuela. El parque está bien mantenido y es una parte importante de la cultura local."
-      },
-      {
-        "name": "Carlos A.",
-        "date": "hace 1 año",
-        "rating": 4,
-        "text": "Excelente lugar para el ocio. Puedes descansar aquí, mirar a la gente pasar, y sentir el ritmo de vida de Alajuela."
-      },
-      {
-        "name": "Sofía M.",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Hermoso parque, lleno del encanto de Costa Rica. Una parada importante en tu viaje por Alajuela, definitivamente vale la pena experimentarlo."
-      },
-      {
-        "name": "Miguel R.",
-        "date": "hace 2 meses",
-        "rating": 4,
-        "text": "Interesante parque urbano. Puedes experimentar la cultura local de cerca. Se recomiendan las visitas diurnas cuando el ambiente es mejor."
-      },
-      {
-        "name": "Laura V.",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "Una gema urbana de Alajuela. El Parque Central es un lugar importante para comprender la cultura de Alajuela, definitivamente vale la pena experimentarlo."
+        "text": "Hermoso parque con un entorno agradable. Muy cerca de la catedral, una visita obligada al recorrer Alajuela."
       }
     ]
   },
@@ -347,8 +341,8 @@
     "rejectAll": "Rechazar Todas"
   },
   "officialManagement": {
-    "title": "Sobre Central Park Alajuela",
-    "text": "Central Park Alajuela es una atracción urbana famosa en la provincia de Alajuela, con hermosos paisajes y un rico valor cultural urbano. Es un lugar ideal para que los residentes locales y turistas se relajen y disfruten."
+    "title": "Sobre el Parque Central de Alajuela",
+    "text": "El Parque Central de Alajuela no es solo el centro geográfico de la ciudad, sino también su latido cultural. Alajuela es conocida como la \"Ciudad de los Mangos\", y este parque está lleno de exuberantes árboles de mango centenarios. Aquí, no solo puede disfrutar de la belleza del clásico quiosco central y la fuente, sino también experimentar de cerca la rica ecología de Costa Rica: observe de cerca el dosel y a menudo podrá ver iguanas tranquilas, ardillas e incluso algún perezoso visitante ocasional.\n\nCombinado con la majestuosa Catedral de Alajuela (Catedral de la Virgen del Pilar) y el Museo Histórico Cultural Juan Santamaría en los alrededores, este es el mejor punto de partida para experimentar el auténtico sabor costarricense (Pura Vida) y su historia nacional. Además, al estar a solo 5-10 minutos en coche del Aeropuerto Internacional SJO, se ha convertido en la primera parada para innumerables turistas internacionales que llegan a Costa Rica."
   },
   "historyTimeline": {
     "title": "Cronología Histórica",

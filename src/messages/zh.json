@@ -11,12 +11,13 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Central Park Alajuela",
-    "subtitle": "阿拉胡埃拉中央公园 · 哥斯达黎加",
+    "title": "Parque Central de Alajuela",
+    "subtitle": "阿拉胡埃拉中央公园 | 哥斯达黎加的芒果之城",
     "rating": "4.4",
     "reviewCount": "5,873",
     "hours": "城市公园",
-    "openMaps": "查看位置"
+    "openMaps": "查看地图导航",
+    "downloadGuide": "周边步行导览下载"
   },
   "intro": {
     "title": "探索阿拉胡埃拉中央公园",
@@ -44,10 +45,26 @@
     "title": "游览路线",
     "overview": "探索 Central Park Alajuela 的理想路线：",
     "steps": [
-      "从公园主入口进入，欣赏中央的开放空间和绿树。",
-      "漫步公园周边，感受当地居民的日常生活和文化氛围。",
-      "参观附近的阿拉胡埃拉大教堂等历史建筑。",
-      "在公园周边的咖啡馆或餐厅休息，品尝当地美食。"
+      {
+        "time": "上午 09:00",
+        "icon": "☕",
+        "description": "漫步中央公园，在芒果树下寻找野生鬣蜥。"
+      },
+      {
+        "time": "上午 10:00",
+        "icon": "⛪",
+        "description": "走进旁边的 阿拉胡埃拉大教堂 (Catedral de la Virgen del Pilar) 欣赏彩色玻璃。"
+      },
+      {
+        "time": "上午 11:00",
+        "icon": "🏛️",
+        "description": "参观 胡安·圣玛丽亚博物馆，了解哥斯达黎加国家英雄的故事。"
+      },
+      {
+        "time": "中午 12:00",
+        "icon": "🍽️",
+        "description": "步行前往两街区外的中央市场 (Mercado Central) 品尝地道哥斯达黎加美食 (Casado)。"
+      }
     ],
     "supplementsTitle": "游览补充建议",
     "supplements": [
@@ -78,21 +95,28 @@
   },
   "basicInfo": {
     "title": "基础信息",
-    "officialName": "正式名称",
-    "officialNameValue": "Central Park Alajuela（阿拉胡埃拉中央公园）",
-    "type": "景点类型",
-    "typeValue": "城市公园",
-    "country": "国家",
-    "countryValue": "哥斯达黎加",
-    "city": "城市",
-    "cityValue": "阿拉胡埃拉省阿拉胡埃拉市",
-    "googleRating": "谷歌评分",
-    "address": "地址",
-    "addressValue": "2Q8P+HFR, Provincia de Alajuela, Alajuela, 哥斯达黎加",
-    "plusCode": "Plus 代码",
-    "plusCodeValue": "2Q8P+HFR",
-    "phone": "官方电话",
-    "phoneValue": "无"
+    "items": [
+      {
+        "icon": "time",
+        "label": "开放时间",
+        "value": "24小时免费开放"
+      },
+      {
+        "icon": "location",
+        "label": "地址",
+        "value": "阿拉胡埃拉市中心"
+      },
+      {
+        "icon": "airport",
+        "label": "机场距离",
+        "value": "距 SJO 机场仅 5-10 分钟车程"
+      },
+      {
+        "icon": "feature",
+        "label": "特色",
+        "value": "城市绿肺、历史建筑、野生动物（鬣蜥/鸟类/树懒）"
+      }
+    ]
   },
   "hours": {
     "title": "开放时间",
@@ -125,7 +149,7 @@
   "transport": {
     "title": "交通方式",
     "airport": "从机场出发",
-    "airportDesc": "距胡安·圣玛丽亚国际机场 (SJO) 约20分钟车程，建议租车或乘坐出租车前往。",
+    "airportDesc": "距胡安·圣玛丽亚国际机场 (SJO) 仅 5-10 分钟车程，建议租车或乘坐出租车前往。很多游客将其作为抵达哥斯达黎加后或离开前游览的第一站或最后一站。",
     "selfDrive": "自驾前往",
     "selfDriveDesc": "公园位于阿拉胡埃拉市中心，导航输入\"Central Park Alajuela\"即可，周边有市区停车场。",
     "bus": "公共交通",
@@ -168,52 +192,22 @@
     "moreReviews": "在 Google Maps 查看更多评价",
     "items": [
       {
-        "name": "Juan Carlos",
-        "date": "1个月前",
+        "name": "游客 A",
+        "date": "近期",
         "rating": 5,
-        "text": "阿拉胡埃拉的中心地带，这个公园非常美丽，是放松和享受当地氛围的绝佳场所。"
+        "text": "离机场非常近的完美第一站！公园里有巨大的芒果树，我们还在树枝上看到了一只可爱的树懒。"
+      },
+      {
+        "name": "游客 B",
+        "date": "近期",
+        "rating": 5,
+        "text": "当地人聚集的中心，非常有烟火气，大教堂的钟声和广场上的鸽子让人感觉很放松。"
       },
       {
         "name": "María José",
-        "date": "2周前",
+        "date": "近期",
         "rating": 5,
         "text": "美丽的公园，周围环境优美。距离大教堂很近，是游览阿拉胡埃拉时的必访之地。"
-      },
-      {
-        "name": "Roberto M.",
-        "date": "3个月前",
-        "rating": 4,
-        "text": "非常好的城市公园。适合散步和放松，周边有很多商店和餐厅，非常方便。"
-      },
-      {
-        "name": "Ana Lucía",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "阿拉胡埃拉的标志性地点。公园维护得很好，是当地文化的重要组成部分。"
-      },
-      {
-        "name": "Carlos A.",
-        "date": "1年前",
-        "rating": 4,
-        "text": "很好的休闲场所。可以在这里休息，观看人来人往，感受阿拉胡埃拉的生活节奏。"
-      },
-      {
-        "name": "Sofía M.",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "美丽的公园，充满了哥斯达黎加的魅力。是阿拉胡埃拉之旅的重要一站，一定要来体验。"
-      },
-      {
-        "name": "Miguel R.",
-        "date": "2个月前",
-        "rating": 4,
-        "text": "有趣的城市公园。可以近距离感受当地文化，建议白天前往，那时候气氛最好。"
-      },
-      {
-        "name": "Laura V.",
-        "date": "2个月前",
-        "rating": 5,
-        "text": "阿拉胡埃拉的城市瑰宝。Central Park 是了解阿拉胡埃拉文化的重要场所，一定要来体验。"
       }
     ]
   },
@@ -347,8 +341,8 @@
     "rejectAll": "拒绝一切"
   },
   "officialManagement": {
-    "title": "关于 Parque Natural Cerro Verde",
-    "text": "Parque Natural Cerro Verde 是圣安娜省的著名自然景观，拥有壮观的山景和丰富的自然文化价值，由萨尔瓦多国家旅游学会 (ISTU) 直接管理与运营维护。"
+    "title": "关于 Parque Central de Alajuela (阿拉胡埃拉中央公园)",
+    "text": "阿拉胡埃拉中央公园不仅是这座城市的地理中心，更是其文化跳动的脉搏。阿拉胡埃拉被誉为“芒果之城 (Ciudad de los Mangos)”，这座公园内便种满了繁茂的百年芒果树。在这里，你不仅能欣赏到中央古典凉亭与喷泉的美景，还能近距离感受哥斯达黎加丰富的生态——仔细观察树冠，你常常能发现悠闲的鬣蜥、松鼠，甚至是偶尔造访的树懒。\n\n结合周围雄伟的阿拉胡埃拉大教堂 (Catedral de la Virgen del Pilar) 与胡安·圣玛丽亚历史文化博物馆，这里是体验纯正哥斯达黎加风情 (Pura Vida) 及其国家历史的最佳起点。更由于其距离 SJO 国际机场仅有 5-10 分钟车程，它成为了无数国际游客抵达哥斯达黎加的第一站。"
   },
   "historyTimeline": {
     "title": "历史变迁时间线",
